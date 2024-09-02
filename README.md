@@ -1,11 +1,11 @@
 # KEIKO-V5
 </br>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=bold&size=55&pause=1000&color=red&center=true&width=910&height=100&lines=I'M+KEIKO-V5;MULTI+FUNCTIONAL;WHATSAPP+BOT;MADE+WITH+LOVE🦋;CODED+BY+AMEEN-XNT" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=bold&size=55&pause=1000&color=red&center=true&width=910&height=100&lines=I'M+KEIKO-V5;MULTI+FUNCTIONAL;WHATSAPP+BOT;MADE+WITH+LOVE🦋;CODED+BY+CalciFer⚡" alt="Typing SVG" /></a>
   
 <p align="center">  
   <a href="https://wa.me/+916238768108?text=HEY+VRO+BIG+FAN+VRO😝">
-    <img alt=AMEEN-SER height="500" src="./AMEEN-SER/AMEEN.png" width="500">
+    <img alt=AMEEN-SER height="250" src="./AMEEN-SER/Keiko.png" width="250">
    
 </a> 
 
@@ -17,7 +17,7 @@
 
 1. Fork the repo
     <br>
-<a href='https://github.com/AmeenRepo/KEIKO-V5/fork' target="_blank"><img alt='FORK KEIKO' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://github.com/CalciFer-Howl/KEIKO-V5/fork' target="_blank"><img alt='FORK KEIKO' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 
 
@@ -36,7 +36,7 @@
 2. Now Deploy
    <br>
  <div align="center">
-  <a href="https://heroku.com/deploy?template=https://github.com/AmeenRepo/KEIKO-V5">
+  <a href="https://heroku.com/deploy?template=https://github.com/CalciFer-Howl/KEIKO-V5">
     <img src="https://www.herokucdn.com/deploy/button.svg" alt="DEPLOY TO HEROKU">
   </a>
 </div>
@@ -67,7 +67,7 @@
 <br>
 2. Now Deploy
  <br>
-  <p align="center"><a href="https://app.koyeb.com/services/deploy/?type=git&repository=https%3A%2F%2Fgithub.com%2FAmeenRepo%2FKEIKO-V5&branch=main&name=keikov5&builder=dockerfile&args=npm&args=start&ports=8000%3Bhttp%3B%2F&env%5BSESSION_ID%5D=your_session"> <img src="https://www.koyeb.com/static/images/deploy/button.svg" width="380" height="38.45"/></a></p>
+  <p align="center"><a href="https://app.koyeb.com/services/deploy/?type=git&repository=https%3A%2F%2Fgithub.com%2FCalciFer-Howl%2FKEIKO-V5&branch=main&name=keikov5&builder=dockerfile&args=npm&args=start&ports=8000%3Bhttp%3B%2F&env%5BSESSION_ID%5D=your_session"> <img src="https://www.koyeb.com/static/images/deploy/button.svg" width="380" height="38.45"/></a></p>
   <br>
   
 #### For Help To Visit Here
